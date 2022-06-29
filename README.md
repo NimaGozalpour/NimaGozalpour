@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NimaGozalpour
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Statistics and Reinforcement Learning
+- 🌱 I’m currently learning Statistics and Deep Reinforcement Learning
 - 📫 How to reach me nimagozalpour@yahoo.com
 
 <!---
